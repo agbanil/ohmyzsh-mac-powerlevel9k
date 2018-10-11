@@ -10,7 +10,7 @@
 
 #### 1. Install the powerlevel9k theme by following [the instructions here](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions#step-1-install-powerlevel9k)
 
-#### 2. Copy the contents of [raz.zshrc](raz.zshrc) into the `.zshrc` file which can be found in your home directory (essentially same place you find you `.bashrc` file, in the days when you used the bash shell).
+#### 2. Copy the contents of [raz.zshrc](raz.zshrc) into the `.zshrc` file which can be found in your home directory (essentially same place you find your `.bashrc` file, in the days when you used the bash shell).
 
 #### 3. Source your `.zshrc` file by running `source ~/.zshrc`
 
